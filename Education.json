@@ -1,17 +1,17 @@
 [
-{
-"Qualification": "B.Tech",
-"name": "Malla Reddy University",
-"Score": "9.3"
-},
-{
-"Qualification": "Intermediate",
-"name": "Narayan Junior College",
-"Score": "97"
-},
-{
-"Qualification": "SSC",
-"name": "NARAYANA",
-"Score": "10.0"
-}
+    {
+        "Qualification": "B.Tech",
+        "name": "Malla Reddy University",
+        "Score": "9.3"
+    },
+    {
+        "Qualification": "Intermediate",
+        "name": "Narayan Junior College",
+        "Score": "97"
+    },
+    {
+        "Qualification": "SSC",
+        "name": "Narayana",
+        "Score": "10"
+    }
 ]
